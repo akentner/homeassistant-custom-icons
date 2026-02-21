@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="347.688 154.226 65.683 65.682" width="65.683px" height="65.682px">
+  <defs>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11428">
+      <path d="M 257.728 261.73 L 1845.14 261.73 L 1845.14 -860.78 L 257.728 -860.78 L 257.728 261.73 Z" id="path11428" style="stroke-width: 1;"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11424">
+      <path d="M 198.893 112.269 L 1786.28 112.269 L 1786.28 -1010.2 L 198.893 -1010.2 L 198.893 112.269 Z" id="path11424"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11420">
+      <path d="M 0,841.89 H 1190.551 V 0 H 0 Z" transform="translate(-44.629201,-795.60172)" id="path11420"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11430">
+      <path d="M 0,841.89 H 1190.551 V 0 H 0 Z" transform="translate(-134.3746,-795.64392)" id="path11430"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11432">
+      <path d="M 0,841.89 H 1190.551 V 0 H 0 Z" transform="translate(-133.70691,-795.61272)" id="path11432"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11435">
+      <path d="M 0,841.89 H 1190.551 V 0 H 0 Z" transform="translate(-128.6856,-791.48582)" id="path11435"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11437">
+      <path d="M 0,841.89 H 1190.551 V 0 H 0 Z" transform="translate(-119.14881,-791.48582)" id="path11437"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath11439">
+      <path d="M 0,841.89 H 1190.551 V 0 H 0 Z" id="path11439"/>
+    </clipPath>
+  </defs>
+  <g transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, 115.21200904881971, 120.08501029267927)">
+    <ellipse style="fill: rgb(255, 255, 255); stroke-width: 1;" cx="281.745" cy="50.552" rx="15.21" ry="15.062"/>
+    <path id="path11423" d="M 298.156 50.552 C 298.156 41.477 290.82 34.141 281.746 34.141 C 272.671 34.141 265.335 41.477 265.335 50.552 C 265.335 59.626 272.671 66.962 281.746 66.962 C 290.82 66.962 298.156 59.626 298.156 50.552 M 289.966 53.806 C 289.966 58.246 286.904 60.398 281.746 60.398 C 276.616 60.398 273.527 58.246 273.527 53.806 L 273.527 42.278 L 279.098 42.278 L 279.098 53.53 C 279.098 55.572 280.091 56.344 281.746 56.344 C 283.567 56.344 284.422 55.572 284.422 53.53 L 284.422 42.278 L 289.966 42.278 L 289.966 53.806 Z" style="fill:#166ab8;fill-opacity:1;fill-rule:evenodd;stroke:none" clip-path="url(#clipPath11424)"/>
+  </g>
+  <g transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, 221.9179601048813, 117.07915845749244)">
+    <ellipse style="fill: rgb(255, 255, 255); stroke-width: 1;" cx="142.407" cy="53.747" rx="15.21" ry="15.062"/>
+    <g id="svg-3" transform="matrix(1, 0, 0, 1, -189.946402, -169.71082)">
+      <g id="group-3" transform="matrix(1, 0, 0, 1, 289.069833, 161.740926)">
+        <path id="path11419" d="m 0,0 c 0,6.727 -5.439,12.165 -12.165,12.165 -6.727,0 -12.167,-5.438 -12.167,-12.165 0,-6.727 5.44,-12.165 12.167,-12.165 C -5.439,-12.165 0,-6.727 0,0 m -5.643,-2.618 c 0,-2.515 -2.413,-5.438 -6.522,-5.438 -2.249,0 -4.908,1.002 -6.401,2.269 v 3.231 h 0.041 c 1.371,-1.901 3.845,-3.455 6.36,-3.455 1.532,0 2.739,0.919 2.739,1.901 0,3.496 -9.282,1.288 -9.282,7.483 0,3.211 3.127,4.949 5.97,4.949 2.311,0 4.478,-0.797 6.154,-2.086 V 3.517 c -1.493,1.533 -3.639,2.903 -6.195,2.903 -1.431,0 -2.29,-0.736 -2.29,-1.676 0,-3.763 9.426,-1.105 9.426,-7.362" style="fill:#00a768;fill-opacity:1;fill-rule:evenodd;stroke:none" transform="matrix(1.3333333,0,0,-1.3333333,59.5056,61.717733)" clip-path="url(#clipPath11420)"/>
+      </g>
+    </g>
+  </g>
+</svg>
